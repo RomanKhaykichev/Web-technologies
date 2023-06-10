@@ -18,15 +18,15 @@
 3. Зона виджетов
 4. Подвал (footer)
 
-![structure](structure.png)
+![structure_site](/Images/1_structure.png)
 
 ### *3. Внесите не менее 10 изменений на страницу с помощью инструмента разработчика и представьте скриншоты было/стало.*
 
 - *__Было:__*
-![before](before.png)
+![before](/Images/1_before.png)
 
 - *__Стало:__*
-![after](after.png)
+![after](/Images/1_after.png)
 
 ### *4. Создайте прототип низкой детализации*
-![yandex](yandex.png)
+![yandex](/Images/1_yandex.png)
