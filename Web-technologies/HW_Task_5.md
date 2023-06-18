@@ -39,7 +39,7 @@ JSON
 - [ ] 2 двойные ковычки
 - [ ] корневой элемент - **aside -> users**
 ```json
-{"user":[{
+{"users":[{
         "surname": "Иванов",
         "name": "Иван",
         "patronymic": "Иванович",
