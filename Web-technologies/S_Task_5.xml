@@ -1,0 +1,107 @@
+<!-- 
+Название Автор Количество страниц Дата издания Цена, руб
+Камил видит руками Томаш Малковски 146 2019 863
+Вероятности и неприятности Сергей Самойленко 134 2022 1055
+Когда жизнь сбивает с ног Расс Хэррис 80 2021 945
+Цветы в темноте Cестра Данг Нгием 124 2020 1027
+Стратегии перемен Джон Коттер 102 2022 1418  -->
+
+<?xml version ="1.0"?>
+
+<CATALOG>
+    <BOOK>
+        <TITLE>Название</TITLE>
+        <AUTHOR>Автор</AUTHOR>
+        <PAGES>Количество страниц</PAGES>
+        <YEAR>Дата издания</YEAR>
+        <PRICE>Цена, руб</PRICE>
+    </BOOK>
+    <BOOK>
+        <TITLE>Камил видит руками</TITLE>
+        <AUTHOR>Томаш Малковски</AUTHOR>
+        <PAGES>146</PAGES>
+        <YEAR>2019</YEAR>
+        <PRICE>863 руб</PRICE>
+    </BOOK>
+    <BOOK>
+        <TITLE>Вероятности и неприятности</TITLE>
+        <AUTHOR>Сергей Самойленко</AUTHOR>
+        <PAGES>134</PAGES>
+        <YEAR>2022</YEAR>
+        <PRICE>1055 руб</PRICE>
+    </BOOK>
+    <BOOK>
+        <TITLE>Когда жизнь сбивает с ног</TITLE>
+        <AUTHOR>Расс Хэррис</AUTHOR>
+        <PAGES>80</PAGES>
+        <YEAR>2021</YEAR>
+        <PRICE>1027 руб</PRICE>
+    </BOOK>
+    <BOOK>
+        <TITLE>Цветы в темноте</TITLE>
+        <AUTHOR>Cестра Данг Нгием</AUTHOR>
+        <PAGES>124</PAGES>
+        <YEAR>2020</YEAR>
+        <PRICE>945 руб</PRICE>
+    </BOOK>
+    <BOOK>
+        <TITLE>Стратегии перемен</TITLE>
+        <AUTHOR>Джон Коттер</AUTHOR>
+        <PAGES>102</PAGES>
+        <YEAR>2022</YEAR>
+        <PRICE>1418 руб</PRICE>
+    </BOOK>
+</CATALOG>
+
+<!-- | ФИО | Дата рождения | Класс | Адрес прописки |
+| Карпова Анна Александровна | 2008 | 8А | г. Москва, Ленинский проспект, д. 2, кв. 277 |
+| Малышкин Михаил Иванович | 2014 | 2Б | г. Москва, Ленградское шоссе, д. 10, кв. 56 |
+| Андреева Алла Петровна | 2015 | 1Г | г. Москва, Дмитровское шоссе, д. 107, кв. 2 | -->
+
+<CATALOG>
+    <STUDENT>
+        <NAME>
+            <FIRSTNAME>Анна</FIRSTNAME>
+            <LASTNAME>Карпова</LASTNAME>
+            <PATRONYMIC>Александровна</PATRONYMIC>
+        </NAME>
+        <BIRTHDAY>2008</BIRTHDAY>
+        <CLASSNUMBER>8A</CLASSNUMBER>
+        <ADDRESS>
+            <SITY>г. Москва</SITY>
+            <STREET>Ленинский проспект</STREET>
+            <HOUSE>д. 2</HOUSE>
+            <APPARTMENT>кв. 277</APPARTMENT>
+        </ADDRESS>
+    </STUDENT>
+    <STUDENT>
+        <NAME>
+            <FIRSTNAME>Михаил</FIRSTNAME>
+            <LASTNAME>Малышкин</LASTNAME>
+            <PATRONYMIC>Иванович</PATRONYMIC>
+        </NAME>
+        <BIRTHDAY>2014</BIRTHDAY>
+        <CLASSNUMBER>2Б</CLASSNUMBER>
+        <ADDRESS>
+            <SITY>г. Москва</SITY>
+            <STREET>Ленградское шоссе</STREET>
+            <HOUSE>д. 10</HOUSE>
+            <APPARTMENT>кв. 56</APPARTMENT>
+        </ADDRESS>
+    </STUDENT>
+    <STUDENT>
+        <NAME>
+            <FIRSTNAME>Алла</FIRSTNAME>
+            <LASTNAME>Андреева</LASTNAME>
+            <PATRONYMIC>Петровна</PATRONYMIC>
+        </NAME>
+        <BIRTHDAY>2015</BIRTHDAY>
+        <CLASSNUMBER>1Г</CLASSNUMBER>
+        <ADDRESS>
+            <SITY>г. Москва</SITY>
+            <STREET>Дмитровское шоссе</STREET>
+            <HOUSE>д. 107</HOUSE>
+            <APPARTMENT>кв. 2</APPARTMENT>
+        </ADDRESS>
+    </STUDENT>
+</CATALOG>
